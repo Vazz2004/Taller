@@ -141,3 +141,47 @@ footer hr{
     animation-duration: 2s; /* don't forget to set a duration! */
 
 }
+
+
+.titulowow img{
+    width: 100%;
+    height: 250px;
+
+}
+
+
+.titulowow h1{
+    animation: pulse; 
+    animation-duration: 2s;
+}
+
+
+.titulowow img{
+    animation:backInLeft; 
+    animation-duration: 2s;
+}
+
+
+.imganimate1{
+    animation:backInLeft; 
+    animation-duration: 2s;
+}
+
+
+.imganimate2{
+
+    animation:backInRight; 
+    animation-duration: 2s;
+
+}
+
+.caja1wow{
+    animation:bounceInLeft; 
+    animation-duration: 2s;
+}
+
+.img-animation img{
+
+    width: 100%;
+
+}
